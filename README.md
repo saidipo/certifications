@@ -1,6 +1,6 @@
-# 🎓 My IBM AI & Generative AI Certifications
+# 🎓 My AI, Deep Learning & Generative AI Certifications
 
-I am building my expertise in AI, Generative AI, and Deep Learning through IBM Professional Certificates. Below are my completed certifications:
+I am building my expertise in AI, Generative AI, and Deep Learning through IBM and NVIDIA Professional Certificates. Below are my completed certifications:
 
 ---
 
@@ -25,6 +25,22 @@ I am building my expertise in AI, Generative AI, and Deep Learning through IBM P
 
 **Skills:** Deep Neural Networks, Model Training, Evaluation, Deployment, PyTorch, Keras, TensorFlow  
 **Description:** Focused on deep learning techniques, hands-on projects, and generative AI applications.
+
+---
+
+### 🖥️ NVIDIA Fundamentals of Deep Learning
+[![NVIDIA Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-green?style=for-the-badge)](https://learn.nvidia.com/certificates?id=CBVnwr0kTqaVg8jB2ynaAQ)
+
+**Skills:** Neural Networks, GPU-accelerated Deep Learning, Model Training  
+**Description:** Hands-on introduction to deep learning fundamentals using NVIDIA tools and frameworks.
+
+---
+
+### 🤖 NVIDIA Evaluation and Light Customization of Large Language Models
+[![NVIDIA LLM Customization](https://img.shields.io/badge/NVIDIA-LLM%20Evaluation%20%26%20Customization-green?style=for-the-badge)](https://learn.nvidia.com/certificates?id=E5nYXQmmRLuFoNbzwFEN1Q)
+
+**Skills:** LLM Evaluation, Prompt Engineering, Model Customization  
+**Description:** Practical skills in evaluating and lightly customizing large language models for specific use cases.
 
 ---
 
