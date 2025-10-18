@@ -42,13 +42,4 @@ I am building my expertise in AI, Generative AI, and Deep Learning through IBM a
 **Skills:** LLM Evaluation, Prompt Engineering, Model Customization  
 **Description:** Practical skills in evaluating and lightly customizing large language models for specific use cases.
 
----
 
-## 📌 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Portfolio](https://yourportfolio.com)  
-
----
-
-*This portfolio is continuously updated as I progress in AI, Machine Learning, and Generative AI technologies.*
